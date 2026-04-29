@@ -14,7 +14,7 @@
 - Animated Headlines - https://codyhouse.co/demo/animated-headlines/index.html
 - is.js `Check types, regexps, presence, time and more` - http://is.js.org/
 - Mprogress.js `linear progressbar from Google Material Design` - http://lightningtgc.github.io/MProgress.js/
-- Social Share Kit `social sharing tools` - http://socialsharekit.com/ •Non-commercial use ONLY•
+- Social Share Kit `social sharing tools` - http://socialsharekit.com/ â¢Non-commercial use ONLYâ¢
 - Chartist.js `SIMPLE RESPONSIVE CHARTS` - http://gionkunz.github.io/chartist-js/index.html
 - MetricsGraphics.js ` D3 based visualization for time-series data.` - http://metricsgraphicsjs.org/
 - Nightmare.js `Simplify deeply nested callbacks` - http://www.nightmarejs.org/
@@ -76,3 +76,5 @@
 ### :chart_with_upwards_trend: Production Tools `Mostly managing after deployment`
 - Opbeat `Performance monitoring for developers` - https://opbeat.com/
 - Server Logs - https://www.datadoghq.com
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
